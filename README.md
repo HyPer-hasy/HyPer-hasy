@@ -1,27 +1,27 @@
 <p align="center">
-    <a href="https://github.com/GitHub-dev12345/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GiHub-dev12345 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GitHub-dev12345&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="75%"/>
+    <a href="https://github.com/HyPer-hasy/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GiHub-dev12345 streak" src="https://github-readme-streak-stats.herokuapp.com?user=HyPer-hasy&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D" width="75%"/>
     </a>
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dev Rathore</h1>
-<h3 align="center">I'm a Passionate Front-end Developer from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yash Maheshwari</h1>
+<h3 align="center">I'm a Passionate Cyber Security Analyst from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Working on becoming a software engineer 
-- 🌱 Currently teaching myself web development
+- 🔭 Working on becoming a Ethical Hacker 
+- 🌱 Currently teaching myself web development, shell programming
 
 - 🚀 I’m currently learning **Reactjs & Python & TailwindCSS**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🔍 Take a look at my projects on Frontend Mentor! **[Frontend Mentor](https://www.frontendmentor.io/profile/GitHub-dev12345)**
+- 🔍 Take a look at my projects on Frontend Mentor! **[Frontend Mentor](https://www.frontendmentor.io/profile/HyPer-hasy)**
 
 - 🚀 Visit My Resume Website **[My Resume Site ](https://resume-dev-123.netlify.app/#experience)**
 
-- 📫 How to reach me **devrathore986@gmail.com**
+- 📫 How to reach me **yashmahesh8336@gmail.com**
 
 - ⚡ Fun fact **I Explore new things or innovative, and learn new technologies.**
 <hr/>
@@ -57,7 +57,7 @@
 ## 📊 My Github Stats
 <p align="center">
   <br/>
-    <a href="https://github.com/GitHub-dev12345/github-readme-stats"><img alt="GitHub-dev12345 Github Stats" src="https://github-readme-stats.vercel.app/api?username=GitHub-dev12345&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="50%" /></a>
+    <a href="https://github.com/HyPer-hasy/github-readme-stats"><img alt="HyPer=hasy Github Stats" src="https://github-readme-stats.vercel.app/api?username=GitHub-HyPer-hasy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="50%" /></a>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="GitHub-dev12345 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub-dev12345&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="40%"/></a>
 </p>
   <br/>
@@ -67,17 +67,17 @@
 <br/>
 <br/>
 
-<a href="https://github.com/GitHub-dev12345 /github-readme-activity-graph"><img alt="GitHub-dev12345 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GitHub-dev12345&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/GitHub-HyPer-hasy /github-readme-activity-graph"><img alt="GitHub-HyPer-hasy Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HyPer-hasy&bg_color=000000&color=59d1f3&line=53b0ca&point=ffffff&area=true&hide_border=true" /></a>
 
 <br/>
 
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/dev-rathore-b9a8ba1a3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/DevRath57659120"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/imarjunrathore12345/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://codepen.io/devrathore"><img src="https://img.icons8.com/ios-filled/50/000000/codepen.png"/></a>
+<a href = "https://www.linkedin.com/in/yash-maheshwari-1834a21ba/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href ="#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/ios-filled/50/000000/codepen.png"/></a>
 <!-- <a href = "https://www.freecodecamp.org/Devra1234"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-filled-tal-revivo.png"/></a> -->
 
 
